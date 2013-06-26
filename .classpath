@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/wsdl.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/metadata.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/com.springsource.javax.xml.rpc-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/apex.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/tooling.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/wsdlpart.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/AuthenticationService.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/javax-xml-soap-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/PROS/CI/API/wsc-23-min.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
